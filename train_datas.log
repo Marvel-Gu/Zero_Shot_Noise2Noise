@@ -1,0 +1,14 @@
+loss 0.003
+1.4 examples/sec on cpu
+loss 0.003
+3.2 examples/sec on cpu
+loss 0.005
+0.6 examples/sec on cpu
+loss 0.007
+0.6 examples/sec on cpu
+loss 0.005
+0.5 examples/sec on cpu
+loss 0.005
+1.0 examples/sec on cpu
+loss 0.005
+1.0 examples/sec on cpu
