@@ -23,7 +23,7 @@
 <img src="./myplot1.png" width=400 alt="lr:0.002"/>
 </div>
 
-最终去噪后的结果对比:
+最终去噪后的结果对比(原图+加噪图+两张去噪图):
 
 <div class="half" style="text-align: center;">
 <img src="./pictures/ORIGIN.png" width=400 alt="原图"/>
