@@ -1,6 +1,8 @@
 import torch
 import torchvision
-from utils import load_img, add_noise
+
+from utils import load_img
+
 
 def add_noise(x,noise_level):
 
@@ -22,4 +24,3 @@ trans = torchvision.transforms.ToPILImage()
 pic1=trans(img1)
 pic1.save("pictures/NOISY.png")
 
-she
